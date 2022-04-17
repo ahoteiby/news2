@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611578379668",
+    "project_id": "elriady-842f6",
+    "storage_bucket": "elriady-842f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611578379668:android:38ad723c62694558df2381",
+        "android_client_info": {
+          "package_name": "com.elriady.elriady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611578379668-ffjq2jk8hbo40ivs7kv3jstkl0a54ktc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elriady.elriady",
+            "certificate_hash": "5be061af3795cdfd1600426f1c8053f6a1d843e1"
+          }
+        },
+        {
+          "client_id": "611578379668-4vnnc0bait7nom5t0djsugmivp3pc95t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJB93uvaPnAmTBruL0LelMmgdlbg5AXow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611578379668-4vnnc0bait7nom5t0djsugmivp3pc95t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
